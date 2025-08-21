@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi, I'm Apfelholz 👋
+
+I'm a student at the Diltheyschule Wiesbaden, where I'm also active in the Schülerverwaltung (SV).
+
+## 🚀 What I Do
+- Initiator and member of [BugBusters](https://github.com/Bug-Busters-dev), competing in the BWINF
+- Successful participant in the BWINF (Bundeswettbewerb Informatik)
+- Completed my Schülerpraktikum at GSI FAIR in Darmstadt
+
+## 🛠️ Languages
+- Java (mostly)
+- Python
+- C++
+
+## 🌱 Interests
+- Playing the trumpet 🎺
+- Windsurfing 🌊
+- Pebble
+
+## 📫 Connect
+- Discord: @Apfelholz
+
+---
+
+Thanks for stopping by!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apfelholz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
