@@ -19,7 +19,7 @@ I'm a student at the Diltheyschule Wiesbaden, where I'm also active in the Schü
 
 ## 📫 Connect
 - Discord: @Apfelholz
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Salomo-blue?logo=linkedin)](https://de.linkedin.com/in/jonathan-salomo-162706389)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Salomo-blue?logo=linkedin)](https://de.linkedin.com/in/jonathan-salomo-162706389)
 ---
 
 Thanks for stopping by!
