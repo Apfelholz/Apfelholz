@@ -1,8 +1,8 @@
+##Hi, I'm Apfelholz 👋
+
 <table>
     <tr>
             <td valign="top" width="60%" style="padding-right:1.5rem;">
-
-                <h1>Hi, I'm Apfelholz 👋</h1>
 
                 <p>I'm a student at the Diltheyschule Wiesbaden, where I'm also active in the Schülerverwaltung (SV).</p>
 
