@@ -22,7 +22,8 @@ I'm a student at the Diltheyschule Wiesbaden, where I'm also active in the Schü
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Salomo-blue?logo=linkedin)](https://de.linkedin.com/in/jonathan-salomo-162706389)
 ---
 
-Thanks for stopping by!
+
+![HPI Java - Objektorientierte Programmierung in Java - Schulversion](javaeinstieg-schule2023_open_badge(1).png) ![HPI Python - Programmieren lernen mit Python](pythonjunior2023-1_open_badge.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apfelholz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
