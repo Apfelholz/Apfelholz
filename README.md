@@ -13,9 +13,9 @@ I'm a student at the Diltheyschule Wiesbaden, where I'm also active in the Schü
 - Completed my Schülerpraktikum at GSI FAIR in Darmstadt  
 
 ### 🛠️ Languages
-- Java (mostly)  
-- Python  
-- C++  
+- Java ☕
+- Python 🐍
+- C++ ⚙️
 
 ### 🌱 Interests
 - Playing the trumpet 🎺  
@@ -33,7 +33,7 @@ I'm a student at the Diltheyschule Wiesbaden, where I'm also active in the Schü
 
 </td>
 <td>
-<div style="margin-top:30px;">
+<div style="margin-top:10px;">
 
   <p align="center">
     <a href="https://github.com/Apfelholz">
