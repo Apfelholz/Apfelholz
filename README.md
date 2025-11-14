@@ -20,12 +20,16 @@ I'm a student at the Diltheyschule Wiesbaden, where I'm also active in the Schü
 ### 🌱 Interests
 - Playing the trumpet 🎺  
 - Windsurfing 🌊  
-- Pebble  
+- Pebble ⌚
 
 ### 📫 Connect
-- Discord: `@Apfelholz`  
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Salomo-blue?logo=linkedin)](https://de.linkedin.com/in/jonathan-salomo-162706389)
+[![Discord](https://img.shields.io/badge/Discord-%40apfelholz-121212?logo=discord&logoColor=5865F2)](https://discord.com/users/721315460489936921)
+
+[![Discogs @apfelholz](https://img.shields.io/badge/Discogs-@apfelholz-121212?logo=discogs&logoColor=000000)](https://www.discogs.com/de/user/Apfelholz)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Salomo-121212?logo=LinkedIn&labelColor=0A66C2)](https://de.linkedin.com/in/jonathan-salomo-162706389)
+
 
 </td>
 <td>
