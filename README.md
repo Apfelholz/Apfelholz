@@ -30,9 +30,10 @@ I'm a student at the Diltheyschule Wiesbaden, where I'm also active in the Schü
 </td>
 <td>
 <div style="margin-top:30px;">
+
   <p align="center">
     <a href="https://github.com/Apfelholz">
-      <img src="https://github-readme-stats.vercel.app/api?username=Apfelholz&show_icons=true&theme=holi&custom_title=GitHub Stats" width="100%" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Apfelholz&show_icons=true&theme=holi" width="100%" alt="GitHub Stats">
     </a>
   </p>
 
@@ -43,8 +44,8 @@ I'm a student at the Diltheyschule Wiesbaden, where I'm also active in the Schü
   </p>
 
   <p align="center" style="margin-top:0;">
-    <img src="javaeinstieg-schule2023_open_badge(1).png" width="120" alt="HPI Java Badge" style="margin:0 12px;">
-    <img src="pythonjunior2023-1_open_badge.png" width="120" alt="HPI Python Badge" style="margin:0 12px;">
+    <img src="javaeinstieg-schule2023_open_badge(1).png" width="120" alt="HPI Java Badge" style="margin:0 15px;">
+    <img src="pythonjunior2023-1_open_badge.png" width="120" alt="HPI Python Badge" style="margin:0 15px;">
   </p>
 </div>
 
