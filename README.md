@@ -60,8 +60,8 @@ I'm a student at the Diltheyschule Wiesbaden, where I'm also active in the Schü
 
 
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=apfelholz.apfelholz&"  />
+<div align="left" style="margin-top:20px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=apfelholz.apfelholz" />
 </div>
 
 </td>
