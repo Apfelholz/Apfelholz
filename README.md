@@ -58,7 +58,7 @@ I'm a student at the Diltheyschule Wiesbaden, where I'm also active in the Schü
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
 </div>
 
-README Stats
+
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=apfelholz.apfelholz&"  />
